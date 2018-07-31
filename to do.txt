@@ -1,0 +1,2 @@
+-at resizing the line graphics don't refresh, only upon action -> fix that
+-toggle popups enabled in-game
