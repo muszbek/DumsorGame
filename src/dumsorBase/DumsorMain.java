@@ -5,8 +5,6 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import javax.swing.*;
 
-import com.alee.laf.WebLookAndFeel;
-
 import dumsorBase.*;
 
 public class DumsorMain extends JFrame {
@@ -36,7 +34,6 @@ public class DumsorMain extends JFrame {
 			SwingUtilities.invokeLater(new Runnable() {
 				@Override
 				public void run() {
-					WebLookAndFeel.install ();
 					new DumsorMain().setVisible(true);
 					
 					Popups.startPopup(70);
