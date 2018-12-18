@@ -7,3 +7,5 @@ You have to build a power system in a town with originally no access to electric
 In-game popup windows help explain the mechanics.
 
 Contains a windows exe, to run from source the main class is src/DumsorBase/DumsorMain.java
+
+![grab-landing-page](https://github.com/muszbek/DumsorGame/blob/master/dumsor-gif.gif)
